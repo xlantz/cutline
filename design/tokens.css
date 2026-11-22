@@ -1,0 +1,57 @@
+/* Cutline Design System, generated from tokens.json. Do not edit by hand. */
+:root {
+  --bg-app: #0e0f11;
+  --bg-panel: #141518;
+  --bg-raised: #1c1d21;
+  --bg-hover: #22242a;
+  --border: #25272c;
+  --border-strong: #2e3036;
+  --text: #e6e6e8;
+  --text-secondary: #c9cbd1;
+  --text-muted: #a3a5ac;
+  --text-faint: #8e9097;
+  --accent: #f5a524;
+  --accent-hover: #ffc35c;
+  --accent-ink: #1a1206;
+  --accent-tint: #2a2418;
+  --success: #6fcf97;
+  --danger: #e07a5f;
+  --clip-video: #22364f;
+  --clip-video-edge: #3e6597;
+  --clip-broll: #2e3f2a;
+  --clip-broll-edge: #56784d;
+  --clip-voice: #1d3b37;
+  --clip-voice-edge: #3b7a70;
+  --clip-music: #2b2f22;
+  --clip-music-edge: #69734a;
+  --clip-title: #3a2f4d;
+  --clip-title-edge: #6e5a96;
+  --font-sans: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Consolas, monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 14px;
+  --radius-pill: 999px;
+  --header-height: 48px;
+  --track-height: 56px;
+  --panel-left: 272px;
+  --panel-right: 300px;
+  --target-min: 36px;
+}
+.title-lg { font-family: var(--font-sans); font-size: 26px; line-height: 32px; font-weight: 600; }
+.title { font-family: var(--font-sans); font-size: 18px; line-height: 24px; font-weight: 600; }
+.heading { font-family: var(--font-sans); font-size: 14px; line-height: 20px; font-weight: 600; }
+.body-lg { font-family: var(--font-sans); font-size: 15px; line-height: 24px; font-weight: 400; }
+.body { font-family: var(--font-sans); font-size: 13px; line-height: 18px; font-weight: 400; }
+.label { font-family: var(--font-sans); font-size: 12px; line-height: 16px; font-weight: 400; }
+.overline { font-family: var(--font-sans); font-size: 11px; line-height: 14px; font-weight: 600; letter-spacing: 0.06em; }
+.timecode { font-family: var(--font-mono); font-size: 13px; line-height: 18px; font-weight: 500; }
+.value { font-family: var(--font-mono); font-size: 12px; line-height: 16px; font-weight: 400; }
+.ruler { font-family: var(--font-mono); font-size: 10.5px; line-height: 14px; font-weight: 400; }
